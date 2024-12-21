@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture	"models/stt/tank/tank_eye_invun"
+	$selfillum		1
+}
